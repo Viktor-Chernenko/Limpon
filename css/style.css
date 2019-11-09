@@ -2175,6 +2175,11 @@ footer h3 a {
 			margin-right: auto;
 
 		}
+
+		.subscribe-form .btn-blue {
+			padding: 15px 20px;
+			top: calc(50%/3);
+		}
 	}
 
 	@media screen and (max-width:1000px) {
@@ -2735,8 +2740,6 @@ footer h3 a {
 
 			.subscribe-form .btn-blue {
 				right: calc(50%/8);
-				padding: 15px 8px;
-
 			}
 
 			.form-box form {
@@ -2779,6 +2782,8 @@ footer h3 a {
 
 			.subscribe-form .btn-blue {
 				height: calc(60%/20);
+				padding: 20px 10px;
+				line-height: 2px;
 			}
 
 			.box-form-name,

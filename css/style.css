@@ -2853,10 +2853,6 @@ footer h3 a {
 				color: #1085e4;
 				background: #fff;
 			}
-			
-			#scroll-top:focus {
-				outline:none !important;
-			}
 
 
 			#scroll-top {
@@ -2864,6 +2860,7 @@ footer h3 a {
 				height: 36px;
 				background-size: contain;
 				right: 7%;
+				-webkit-tap-highlight-color: rgba(0, 0, 0, 0)
 			}
 
 			#scroll-top:hover {

@@ -482,30 +482,31 @@ header > img {
 	background-position: center;
 	margin-bottom: 35px;
 	margin-top: 40px;
+	z-index: 100;
 }
 
 .grid-item-1 .grid-item-icon {
-	background-image: url(/img/grid-icon-1.png);
+	background-image: url(/img/grid-icon1.png);
 }
 
 .grid-item-2 .grid-item-icon {
-	background-image: url(/img/grid-icon-2.png);
+	background-image: url(/img/grid-icon2.png);
 }
 
 .grid-item-3 .grid-item-icon {
-	background-image: url(/img/grid-icon-3.png);
+	background-image: url(/img/grid-icon3.png);
 }
 
 .grid-item-4 .grid-item-icon {
-	background-image: url(/img/grid-icon-4.png);
+	background-image: url(/img/grid-icon4.png);
 }
 
 .grid-item-5 .grid-item-icon {
-	background-image: url(/img/grid-icon-5.png);
+	background-image: url(/img/grid-icon5.png);
 }
 
 .grid-item-6 .grid-item-icon {
-	background-image: url(/img/grid-icon-6.png);
+	background-image: url(/img/grid-icon6.png);
 }
 
 /*Конец стилизации section class="services" */

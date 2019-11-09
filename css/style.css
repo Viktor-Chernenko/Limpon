@@ -2767,12 +2767,11 @@ footer h3 a {
 		}
 
 		@media screen and (max-width:460px) {
-
 			h1 {
 				text-align: center;
 				margin-left: 0;
 				margin-right: 0;
-				max-width: 100%
+				max-width: 100%;
 			}
 
 			.header-btn a:first-child {
@@ -2780,7 +2779,7 @@ footer h3 a {
 			}
 
 			.subscribe-form .btn-blue {
-				right: calc(60%/20);
+				height: calc(60%/20);
 			}
 
 			.box-form-name,

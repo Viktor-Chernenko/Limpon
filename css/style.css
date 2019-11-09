@@ -483,31 +483,17 @@ header > img {
 	margin-bottom: 35px;
 	margin-top: 40px;
 	z-index: 100;
+	position: relative;
 }
 
-.grid-item-1 .grid-item-icon {
-	background-image: url(/img/grid-icon1.png);
+.grid-item-icon img {
+	margin: 0 auto;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
 }
 
-.grid-item-2 .grid-item-icon {
-	background-image: url(/img/grid-icon2.png);
-}
-
-.grid-item-3 .grid-item-icon {
-	background-image: url(/img/grid-icon3.png);
-}
-
-.grid-item-4 .grid-item-icon {
-	background-image: url(/img/grid-icon4.png);
-}
-
-.grid-item-5 .grid-item-icon {
-	background-image: url(/img/grid-icon5.png);
-}
-
-.grid-item-6 .grid-item-icon {
-	background-image: url(/img/grid-icon6.png);
-}
 
 /*Конец стилизации section class="services" */
 

@@ -2884,8 +2884,8 @@ footer h3 a {
 			#scroll-top:hover {
 				width: 34px;
 				height: 34px;
-				border: 2px solid #1085e4;
-				background-image: url(../img/scroll-up-hover.png);
+				background-size: contain;
+				right: 7%
 			}
 
 			.menu-mobile {

@@ -1487,48 +1487,6 @@ header > img {
 	-webkit-transition: all 0.4s linear 0.05s;
 }
 
-.team-box-item:nth-child(3) p:nth-child(2) {
-	font-family: 'Indie Flower', cursive;
-	font-style: italic;
-}
-
-.team-box-item:nth-child(3) .name {
-	font-family: 'Kalam', cursive;
-	font-style: italic;
-	font-weight: 500;
-}
-
-.team-box-item:nth-child(3) .link-social-box {
-	justify-content: space-around;
-}
-
-.team-box-item:nth-child(3) .link-fb {
-	background-image: url(../img/vk.png);
-	background-position: 0;
-	-webkit-transition: all 0.4s linear 0.05s;
-	-webkit-transition: all 0.35s linear 0s;
-}
-
-.team-box-item:nth-child(3) .link-fb:hover {
-	box-shadow: 0px 0px 15px 5px rgba(79, 118, 161, 0.7);
-}
-
-.team-box-item:nth-child(3) .link-tv {
-	background-image: url(../img/inst.png);
-	background-position: 0;
-	-webkit-transition: all 0.4s linear 0.05s;
-	-webkit-transition: all 0.35s linear 0s;
-}
-
-.team-box-item:nth-child(3) .link-tv:hover {
-	box-shadow: 0px 0px 15px 5px rgba(203, 57, 122, 0.7);
-}
-
-.team-box-item:hover {
-	-webkit-box-shadow: 0px 0px 12px 15px rgba(16, 133, 228, 0.2);
-	box-shadow: 0px 0px 12px 15px rgba(16, 133, 228, 0.2);
-}
-
 .team-box-item img {
 	position: absolute;
 	top: -86px;

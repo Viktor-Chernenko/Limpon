@@ -2882,7 +2882,7 @@ footer h3 a {
 			}
 
 			#scroll-top:hover {
-				widows: 34px;
+				width: 34px;
 				height: 34px;
 				border: 2px solid #1085e4;
 				background-image: url(../img/scroll-up-hover.png);

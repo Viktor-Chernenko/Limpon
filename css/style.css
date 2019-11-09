@@ -2867,4 +2867,30 @@ footer h3 a {
 				color: #1085e4;
 				background: #fff;
 			}
+
+			#scroll-top {
+				width: 36px;
+				height: 36px;
+				border: 2px solid transparent;
+				border-radius: 50%;
+				background-image: url(../img/scroll-up.png);
+				background-size: contain;
+				background-repeat: no-repeat;
+				position: fixed;
+				bottom: 5%;
+				right: 5%;
+				z-index: 1000;
+			}
+
+			#scroll-top:hover {
+				widows: 34px;
+				height: 34px;
+				border: 2px solid #1085e4;
+				background-image: url(../img/scroll-up-hover.png);
+			}
+
+			.menu-mobile {
+				width: 40px;
+				height: 40px;
+			}
 		}

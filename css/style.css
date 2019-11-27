@@ -1762,6 +1762,7 @@ header > img {
 	right: -41px;
 }
 
+
 .box-form-massanger::before {
 	content: " ";
 	background-image: url(../img/img-form-textarea.png);
@@ -1770,6 +1771,11 @@ header > img {
 	position: absolute;
 	top: 28px;
 	right: -41px;
+}
+
+.form-email:focus, .form-massenge:focus, .form-name:focus {
+    -webkit-box-shadow: 0px 0px 12px 15px rgba(16, 133, 228, 0.5);
+	box-shadow: 0px 0px 10px 1px rgba(16, 133, 228, 0.4);
 }
 
 /* Стилизация кнопки btn-blue в блоке form */
